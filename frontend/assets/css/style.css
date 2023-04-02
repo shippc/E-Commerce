@@ -250,6 +250,11 @@ button {
   box-shadow: 0 1px 4px hsla(0, 4%, 15%, 0.1);
 }
 
+/* Active link */
+.active-link{
+  color: var(--first-color);
+}
+
 /* HOME */
 
 .home-container {
